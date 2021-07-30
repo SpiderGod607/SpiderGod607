@@ -21,7 +21,7 @@
 
 <h2>✒️ My Social</h2>
 
-[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/karthikm607/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/karthikm607/)  
+[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/karthikm607/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' alt='Stack Overflow' height='30'>](https://stackoverflow.com/users/12853151/spidergod607)  
 
 
 
