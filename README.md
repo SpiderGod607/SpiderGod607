@@ -5,7 +5,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>👨‍💻 All of my projects are available <a href="https://karthikm607.netlify.app/">here</a>.</li>
-<li>📝 I am currently a student at <a href="https://www.masaischool.com/">Masai</a>.</li>
+<li>📝 <a href="https://www.masaischool.com/">Masai</a> alumni.</li>
 <li>🎉 My play store account <a href="https://play.google.com/store/apps/developer?id=Spidergod607">here</a>.</li>
 <li>🚀 On my spare time I play games or watch anime.</li>
 </ul>
