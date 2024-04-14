@@ -7,7 +7,7 @@
 <li>👨‍💻 All of my projects are available <a href="https://karthikm607.netlify.app/">here</a>.</li>
 <li>📝 <a href="https://www.masaischool.com/">Masai</a> alumni.</li>
 <li>🎉 My play store account <a href="https://play.google.com/store/apps/developer?id=Spidergod607">here</a>.</li>
-<li>🚀 On my spare time I play games or watch anime.</li>
+<li>📺 Anime enjoyer ~ <a href="https://myanimelist.net/animelist/spidergod607">MyAnimeList</a></li>
 </ul>
 <br/>
 <br/>
